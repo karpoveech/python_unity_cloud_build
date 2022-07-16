@@ -1,0 +1,4 @@
+API_TOKEN = ""
+ORGID = ""
+PROJECTS = ""
+BUILD_TARGETS = ""
